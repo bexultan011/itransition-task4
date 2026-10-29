@@ -1,0 +1,5061 @@
+{
+  "store": "STORE3",
+  "top5_days": [
+    {
+      "date": "2025-10-09",
+      "revenue": 3551.19
+    },
+    {
+      "date": "2025-09-21",
+      "revenue": 3242.4
+    },
+    {
+      "date": "2025-09-04",
+      "revenue": 3040.2
+    },
+    {
+      "date": "2025-09-30",
+      "revenue": 3016.1
+    },
+    {
+      "date": "2025-09-01",
+      "revenue": 2936.02
+    }
+  ],
+  "unique_users": 2955,
+  "unique_author_sets": 307,
+  "most_popular_authors": [
+    [
+      "Loreta Metz"
+    ]
+  ],
+  "most_popular_sold": 155,
+  "best_buyer_ids": [
+    52881,
+    53869,
+    54846
+  ],
+  "best_buyer_spent": 1392.09,
+  "merged_users": [
+    [
+      52105,
+      53465,
+      53743
+    ],
+    [
+      52166,
+      52236,
+      53811
+    ],
+    [
+      52167,
+      52495,
+      54913
+    ],
+    [
+      52181,
+      53375,
+      53593
+    ],
+    [
+      52194,
+      52751,
+      55034
+    ],
+    [
+      52220,
+      52314,
+      54351
+    ],
+    [
+      52347,
+      54280,
+      54713
+    ],
+    [
+      52626,
+      52663,
+      53268
+    ],
+    [
+      52671,
+      52678,
+      54848
+    ],
+    [
+      52730,
+      53720,
+      54655
+    ],
+    [
+      52881,
+      53869,
+      54846
+    ],
+    [
+      52898,
+      52994,
+      53417
+    ],
+    [
+      53573,
+      53931,
+      54628
+    ],
+    [
+      52055,
+      54208
+    ],
+    [
+      52059,
+      54664
+    ],
+    [
+      52087,
+      53726
+    ],
+    [
+      52092,
+      52177
+    ],
+    [
+      52093,
+      54565
+    ],
+    [
+      52118,
+      54596
+    ],
+    [
+      52146,
+      53854
+    ],
+    [
+      52155,
+      53530
+    ],
+    [
+      52179,
+      53539
+    ],
+    [
+      52191,
+      53216
+    ],
+    [
+      52216,
+      52262
+    ],
+    [
+      52219,
+      54763
+    ],
+    [
+      52221,
+      53029
+    ],
+    [
+      52228,
+      52641
+    ],
+    [
+      52233,
+      52839
+    ],
+    [
+      52268,
+      54054
+    ],
+    [
+      52272,
+      53740
+    ],
+    [
+      52286,
+      54347
+    ],
+    [
+      52301,
+      52542
+    ],
+    [
+      52302,
+      52628
+    ],
+    [
+      52307,
+      53995
+    ],
+    [
+      52312,
+      52646
+    ],
+    [
+      52316,
+      53552
+    ],
+    [
+      52320,
+      53586
+    ],
+    [
+      52321,
+      53575
+    ],
+    [
+      52348,
+      53636
+    ],
+    [
+      52369,
+      54615
+    ],
+    [
+      52391,
+      53404
+    ],
+    [
+      52404,
+      54553
+    ],
+    [
+      52407,
+      53137
+    ],
+    [
+      52413,
+      55105
+    ],
+    [
+      52435,
+      54061
+    ],
+    [
+      52465,
+      54891
+    ],
+    [
+      52478,
+      54434
+    ],
+    [
+      52490,
+      53647
+    ],
+    [
+      52517,
+      52796
+    ],
+    [
+      52525,
+      52735
+    ],
+    [
+      52537,
+      54711
+    ],
+    [
+      52552,
+      55041
+    ],
+    [
+      52555,
+      52780
+    ],
+    [
+      52565,
+      53821
+    ],
+    [
+      52580,
+      53454
+    ],
+    [
+      52585,
+      53818
+    ],
+    [
+      52591,
+      53638
+    ],
+    [
+      52637,
+      54345
+    ],
+    [
+      52640,
+      53504
+    ],
+    [
+      52716,
+      53544
+    ],
+    [
+      52729,
+      55060
+    ],
+    [
+      52736,
+      53768
+    ],
+    [
+      52763,
+      52968
+    ],
+    [
+      52768,
+      54738
+    ],
+    [
+      52794,
+      53442
+    ],
+    [
+      52822,
+      54989
+    ],
+    [
+      52862,
+      53180
+    ],
+    [
+      52873,
+      54319
+    ],
+    [
+      52914,
+      54207
+    ],
+    [
+      52916,
+      54457
+    ],
+    [
+      52964,
+      52989
+    ],
+    [
+      52976,
+      53066
+    ],
+    [
+      52998,
+      55135
+    ],
+    [
+      53011,
+      53124
+    ],
+    [
+      53019,
+      53589
+    ],
+    [
+      53027,
+      54662
+    ],
+    [
+      53045,
+      53333
+    ],
+    [
+      53049,
+      53898
+    ],
+    [
+      53062,
+      55095
+    ],
+    [
+      53064,
+      53406
+    ],
+    [
+      53079,
+      54695
+    ],
+    [
+      53081,
+      53358
+    ],
+    [
+      53082,
+      54682
+    ],
+    [
+      53084,
+      54166
+    ],
+    [
+      53097,
+      54598
+    ],
+    [
+      53110,
+      53650
+    ],
+    [
+      53160,
+      53758
+    ],
+    [
+      53161,
+      53955
+    ],
+    [
+      53172,
+      54731
+    ],
+    [
+      53173,
+      54275
+    ],
+    [
+      53177,
+      53271
+    ],
+    [
+      53183,
+      54546
+    ],
+    [
+      53195,
+      54223
+    ],
+    [
+      53208,
+      53946
+    ],
+    [
+      53210,
+      54008
+    ],
+    [
+      53233,
+      53742
+    ],
+    [
+      53281,
+      53894
+    ],
+    [
+      53315,
+      54678
+    ],
+    [
+      53353,
+      54873
+    ],
+    [
+      53360,
+      54744
+    ],
+    [
+      53386,
+      53987
+    ],
+    [
+      53399,
+      53823
+    ],
+    [
+      53424,
+      55130
+    ],
+    [
+      53428,
+      53592
+    ],
+    [
+      53449,
+      53844
+    ],
+    [
+      53450,
+      54428
+    ],
+    [
+      53451,
+      54896
+    ],
+    [
+      53473,
+      55155
+    ],
+    [
+      53493,
+      54261
+    ],
+    [
+      53497,
+      54827
+    ],
+    [
+      53532,
+      54043
+    ],
+    [
+      53540,
+      54957
+    ],
+    [
+      53560,
+      54381
+    ],
+    [
+      53604,
+      54300
+    ],
+    [
+      53674,
+      54252
+    ],
+    [
+      53722,
+      54551
+    ],
+    [
+      53728,
+      54646
+    ],
+    [
+      53735,
+      53773
+    ],
+    [
+      53738,
+      53956
+    ],
+    [
+      53746,
+      54072
+    ],
+    [
+      53806,
+      54033
+    ],
+    [
+      53835,
+      54828
+    ],
+    [
+      53851,
+      54313
+    ],
+    [
+      53879,
+      54868
+    ],
+    [
+      54028,
+      54382
+    ],
+    [
+      54090,
+      54420
+    ],
+    [
+      54105,
+      54444
+    ],
+    [
+      54118,
+      54130
+    ],
+    [
+      54155,
+      54811
+    ],
+    [
+      54226,
+      54314
+    ],
+    [
+      54254,
+      55051
+    ],
+    [
+      54259,
+      54996
+    ],
+    [
+      54267,
+      55109
+    ],
+    [
+      54296,
+      54649
+    ],
+    [
+      54305,
+      54464
+    ],
+    [
+      54597,
+      55025
+    ],
+    [
+      54691,
+      54852
+    ],
+    [
+      54875,
+      55145
+    ],
+    [
+      54909,
+      54950
+    ]
+  ],
+  "author_sets_sold": [
+    {
+      "authors": [
+        "Loreta Metz"
+      ],
+      "sold": 155
+    },
+    {
+      "authors": [
+        "Cortney Parker",
+        "Msgr. Aaron D'Amore"
+      ],
+      "sold": 140
+    },
+    {
+      "authors": [
+        "Ivey Kerluke II"
+      ],
+      "sold": 134
+    },
+    {
+      "authors": [
+        "Dr. Delores Batz"
+      ],
+      "sold": 133
+    },
+    {
+      "authors": [
+        "Ashley Huel Sr."
+      ],
+      "sold": 120
+    },
+    {
+      "authors": [
+        "Dr. Tomas Haley",
+        "Georgina Grimes",
+        "Stewart Altenwerth"
+      ],
+      "sold": 117
+    },
+    {
+      "authors": [
+        "Gregory Schimmel DC"
+      ],
+      "sold": 116
+    },
+    {
+      "authors": [
+        "Latonia Romaguera VM"
+      ],
+      "sold": 113
+    },
+    {
+      "authors": [
+        "Bryon Lubowitz PhD",
+        "Eddy Macejkovic",
+        "Fermin Mayert Ret."
+      ],
+      "sold": 110
+    },
+    {
+      "authors": [
+        "The Hon. Jewel Rempel"
+      ],
+      "sold": 108
+    },
+    {
+      "authors": [
+        "Luciano Willms DVM"
+      ],
+      "sold": 108
+    },
+    {
+      "authors": [
+        "Asa Sauer",
+        "Bradley Stroman",
+        "Emilio Leannon",
+        "Inez Corwin"
+      ],
+      "sold": 104
+    },
+    {
+      "authors": [
+        "Roberto Gutkowski"
+      ],
+      "sold": 103
+    },
+    {
+      "authors": [
+        "Mae Bergnaum"
+      ],
+      "sold": 103
+    },
+    {
+      "authors": [
+        "Shery Cartwright"
+      ],
+      "sold": 102
+    },
+    {
+      "authors": [
+        "Jeromy Vandervort"
+      ],
+      "sold": 101
+    },
+    {
+      "authors": [
+        "Amb. Mckinley McDermott",
+        "Danika Kilback",
+        "Loreta Yost"
+      ],
+      "sold": 101
+    },
+    {
+      "authors": [
+        "Clarine Schuster"
+      ],
+      "sold": 98
+    },
+    {
+      "authors": [
+        "Codi Hamill",
+        "Gov. Odis Robel"
+      ],
+      "sold": 96
+    },
+    {
+      "authors": [
+        "Isaac Hand"
+      ],
+      "sold": 95
+    },
+    {
+      "authors": [
+        "Marg Hodkiewicz"
+      ],
+      "sold": 94
+    },
+    {
+      "authors": [
+        "Joe Howe"
+      ],
+      "sold": 93
+    },
+    {
+      "authors": [
+        "Armando Runolfsdottir VM",
+        "Burt Windler DVM",
+        "Damian Grimes Sr."
+      ],
+      "sold": 92
+    },
+    {
+      "authors": [
+        "Sen. Keitha Hayes"
+      ],
+      "sold": 91
+    },
+    {
+      "authors": [
+        "Elwood Sawayn"
+      ],
+      "sold": 90
+    },
+    {
+      "authors": [
+        "Christiane Brakus",
+        "Kym Glover JD",
+        "Prof. Kristyn Schmidt"
+      ],
+      "sold": 90
+    },
+    {
+      "authors": [
+        "Virgil Hickle PhD"
+      ],
+      "sold": 89
+    },
+    {
+      "authors": [
+        "Jeff Gutkowski"
+      ],
+      "sold": 86
+    },
+    {
+      "authors": [
+        "Earl Greenholt"
+      ],
+      "sold": 85
+    },
+    {
+      "authors": [
+        "Dr. Tomas Haley",
+        "Georgina Grimes",
+        "Huey Gutkowski",
+        "Scarlet Stehr",
+        "Stewart Altenwerth"
+      ],
+      "sold": 83
+    },
+    {
+      "authors": [
+        "Neil Cummings"
+      ],
+      "sold": 83
+    },
+    {
+      "authors": [
+        "Jaymie O'Conner"
+      ],
+      "sold": 83
+    },
+    {
+      "authors": [
+        "Johnnie Pacocha"
+      ],
+      "sold": 82
+    },
+    {
+      "authors": [
+        "Mr. Verdell Bednar",
+        "Olin D'Amore"
+      ],
+      "sold": 82
+    },
+    {
+      "authors": [
+        "Brigette Shanahan"
+      ],
+      "sold": 82
+    },
+    {
+      "authors": [
+        "Amb. Garnett Krajcik",
+        "Breana Hagenes IV",
+        "Jc Fahey"
+      ],
+      "sold": 81
+    },
+    {
+      "authors": [
+        "Terry Schumm"
+      ],
+      "sold": 80
+    },
+    {
+      "authors": [
+        "Houston Kuvalis",
+        "Msgr. Zada Schimmel",
+        "Sen. Octavio Leannon"
+      ],
+      "sold": 80
+    },
+    {
+      "authors": [
+        "Janeen Satterfield"
+      ],
+      "sold": 79
+    },
+    {
+      "authors": [
+        "Asa Sauer",
+        "Bradley Stroman",
+        "Inez Corwin"
+      ],
+      "sold": 78
+    },
+    {
+      "authors": [
+        "Buford Howe"
+      ],
+      "sold": 77
+    },
+    {
+      "authors": [
+        "Ty Bosco"
+      ],
+      "sold": 77
+    },
+    {
+      "authors": [
+        "Phuong Lebsack"
+      ],
+      "sold": 77
+    },
+    {
+      "authors": [
+        "Deon Hauck"
+      ],
+      "sold": 76
+    },
+    {
+      "authors": [
+        "Veda Buckridge DDS"
+      ],
+      "sold": 75
+    },
+    {
+      "authors": [
+        "Hae Stamm",
+        "Sol Tromp"
+      ],
+      "sold": 74
+    },
+    {
+      "authors": [
+        "Keith Gutkowski"
+      ],
+      "sold": 73
+    },
+    {
+      "authors": [
+        "Boyce Stark V",
+        "Jayme Pfannerstill"
+      ],
+      "sold": 73
+    },
+    {
+      "authors": [
+        "Esteban Roob"
+      ],
+      "sold": 72
+    },
+    {
+      "authors": [
+        "Yelena Towne"
+      ],
+      "sold": 72
+    },
+    {
+      "authors": [
+        "Fr. Markus Herzog"
+      ],
+      "sold": 71
+    },
+    {
+      "authors": [
+        "Filiberto Collins"
+      ],
+      "sold": 70
+    },
+    {
+      "authors": [
+        "Dr. Delores Batz",
+        "Ms. Augusta Larkin"
+      ],
+      "sold": 69
+    },
+    {
+      "authors": [
+        "Lucy Luettgen"
+      ],
+      "sold": 69
+    },
+    {
+      "authors": [
+        "Kasey McDermott"
+      ],
+      "sold": 68
+    },
+    {
+      "authors": [
+        "Titus Hermann"
+      ],
+      "sold": 68
+    },
+    {
+      "authors": [
+        "Pres. Stuart Zulauf"
+      ],
+      "sold": 67
+    },
+    {
+      "authors": [
+        "Rev. Joesph Predovic"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Oralia Considine"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Carlo Windler",
+        "Keith Raynor",
+        "Merri Green"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Chadwick Corwin"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Siu Keebler"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "James Breitenberg"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Prof. Jarvis Jerde"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Gov. Odis Robel"
+      ],
+      "sold": 66
+    },
+    {
+      "authors": [
+        "Jeromy Weber"
+      ],
+      "sold": 65
+    },
+    {
+      "authors": [
+        "Reyes Kihn"
+      ],
+      "sold": 64
+    },
+    {
+      "authors": [
+        "Pres. Leonardo Dietrich"
+      ],
+      "sold": 64
+    },
+    {
+      "authors": [
+        "Deon Hauck",
+        "Jaymie O'Conner"
+      ],
+      "sold": 64
+    },
+    {
+      "authors": [
+        "Viva Veum"
+      ],
+      "sold": 64
+    },
+    {
+      "authors": [
+        "Dan Torp"
+      ],
+      "sold": 63
+    },
+    {
+      "authors": [
+        "Alona Rowe"
+      ],
+      "sold": 63
+    },
+    {
+      "authors": [
+        "Levi Schuppe"
+      ],
+      "sold": 63
+    },
+    {
+      "authors": [
+        "Makeda Sporer"
+      ],
+      "sold": 62
+    },
+    {
+      "authors": [
+        "Luis Grady"
+      ],
+      "sold": 62
+    },
+    {
+      "authors": [
+        "Dr. Vernita Bosco",
+        "Mr. Verdell Bednar",
+        "Olin D'Amore"
+      ],
+      "sold": 62
+    },
+    {
+      "authors": [
+        "Msgr. Sydney Kunze"
+      ],
+      "sold": 61
+    },
+    {
+      "authors": [
+        "Eveline Larson"
+      ],
+      "sold": 60
+    },
+    {
+      "authors": [
+        "Fr. Felicita Schumm"
+      ],
+      "sold": 60
+    },
+    {
+      "authors": [
+        "Gerry Nitzsche",
+        "Travis Jones"
+      ],
+      "sold": 59
+    },
+    {
+      "authors": [
+        "Lizette Grant"
+      ],
+      "sold": 59
+    },
+    {
+      "authors": [
+        "Jack Beier"
+      ],
+      "sold": 58
+    },
+    {
+      "authors": [
+        "Gavin Howe Ret."
+      ],
+      "sold": 57
+    },
+    {
+      "authors": [
+        "Stephania Windler"
+      ],
+      "sold": 57
+    },
+    {
+      "authors": [
+        "Cherelle Lynch",
+        "Elizebeth Rice"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Michiko Rolfson"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Ayana Greenfelder CPA"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Arden Nicolas",
+        "Reyes Kihn"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Angelina Rowe",
+        "Suzie Romaguera DC"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Rhett Kulas"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Frederica Ritchie",
+        "Micheal Treutel"
+      ],
+      "sold": 56
+    },
+    {
+      "authors": [
+        "Chi Pfannerstill"
+      ],
+      "sold": 55
+    },
+    {
+      "authors": [
+        "Fredericka Borer Esq."
+      ],
+      "sold": 55
+    },
+    {
+      "authors": [
+        "Timmy Corwin"
+      ],
+      "sold": 54
+    },
+    {
+      "authors": [
+        "Arden Stracke"
+      ],
+      "sold": 54
+    },
+    {
+      "authors": [
+        "Adriana Wehner"
+      ],
+      "sold": 54
+    },
+    {
+      "authors": [
+        "Napoleon McGlynn"
+      ],
+      "sold": 54
+    },
+    {
+      "authors": [
+        "Lila Oberbrunner"
+      ],
+      "sold": 53
+    },
+    {
+      "authors": [
+        "Conrad Ritchie",
+        "Misty Streich"
+      ],
+      "sold": 53
+    },
+    {
+      "authors": [
+        "Sheri Krajcik I"
+      ],
+      "sold": 53
+    },
+    {
+      "authors": [
+        "Doyle D'Amore"
+      ],
+      "sold": 53
+    },
+    {
+      "authors": [
+        "Chad Mitchell",
+        "Esteban Roob",
+        "Siobhan Bauch"
+      ],
+      "sold": 53
+    },
+    {
+      "authors": [
+        "Cuc Schmeler"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Huey Gutkowski",
+        "Scarlet Stehr"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "David Crona"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Julianne Doyle",
+        "Pres. Stuart Zulauf"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Suzie Romaguera DC"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Rusty Altenwerth"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Gaylene Crist",
+        "Lacy Langosh",
+        "Mabelle Wisoky",
+        "Pei Bode"
+      ],
+      "sold": 52
+    },
+    {
+      "authors": [
+        "Sharleen Anderson"
+      ],
+      "sold": 51
+    },
+    {
+      "authors": [
+        "Teddy Metz"
+      ],
+      "sold": 51
+    },
+    {
+      "authors": [
+        "Luis Grady",
+        "Marg Hodkiewicz"
+      ],
+      "sold": 51
+    },
+    {
+      "authors": [
+        "Jospeh Ebert"
+      ],
+      "sold": 50
+    },
+    {
+      "authors": [
+        "Jaime Leannon JD",
+        "Maryrose Prohaska"
+      ],
+      "sold": 50
+    },
+    {
+      "authors": [
+        "Ann Marks II"
+      ],
+      "sold": 50
+    },
+    {
+      "authors": [
+        "Sen. Mitch Johnson"
+      ],
+      "sold": 50
+    },
+    {
+      "authors": [
+        "Murray Stehr"
+      ],
+      "sold": 49
+    },
+    {
+      "authors": [
+        "Michiko Wilderman JD"
+      ],
+      "sold": 49
+    },
+    {
+      "authors": [
+        "Ariel Kreiger"
+      ],
+      "sold": 49
+    },
+    {
+      "authors": [
+        "Izola Fritsch"
+      ],
+      "sold": 49
+    },
+    {
+      "authors": [
+        "Chang Nolan",
+        "Hyman Oberbrunner",
+        "Pres. Jennine Leuschke"
+      ],
+      "sold": 48
+    },
+    {
+      "authors": [
+        "Lelah Hegmann"
+      ],
+      "sold": 48
+    },
+    {
+      "authors": [
+        "Clifton Hills"
+      ],
+      "sold": 48
+    },
+    {
+      "authors": [
+        "Susan Jacobs"
+      ],
+      "sold": 48
+    },
+    {
+      "authors": [
+        "Ezra Schumm",
+        "Margart Blanda",
+        "Pandora Emard"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Flora Pouros",
+        "Lindsey Maggio"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Codi Hamill"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Amb. Robyn Von"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Luella DuBuque MD",
+        "Philip Kertzmann"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Kimbra Herman"
+      ],
+      "sold": 47
+    },
+    {
+      "authors": [
+        "Jayme Pfannerstill"
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Gavin Raynor JD"
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Corrine Halvorson III"
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Dora Considine Sr."
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Sun Yost"
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Emilio Leannon"
+      ],
+      "sold": 46
+    },
+    {
+      "authors": [
+        "Mervin McKenzie"
+      ],
+      "sold": 45
+    },
+    {
+      "authors": [
+        "Forest Weber"
+      ],
+      "sold": 44
+    },
+    {
+      "authors": [
+        "Jeromy Vandervort",
+        "Mike Funk"
+      ],
+      "sold": 44
+    },
+    {
+      "authors": [
+        "Ms. Augusta Larkin"
+      ],
+      "sold": 44
+    },
+    {
+      "authors": [
+        "Amb. Robyn Von",
+        "Gricelda Kling LLD"
+      ],
+      "sold": 43
+    },
+    {
+      "authors": [
+        "Casey Cremin IV",
+        "Leonardo Brown",
+        "Ms. Adam Schulist"
+      ],
+      "sold": 43
+    },
+    {
+      "authors": [
+        "Leonel Kozey III",
+        "Piper Schamberger",
+        "Stephan Douglas"
+      ],
+      "sold": 43
+    },
+    {
+      "authors": [
+        "Viola Mosciski"
+      ],
+      "sold": 43
+    },
+    {
+      "authors": [
+        "Imelda O'Keefe"
+      ],
+      "sold": 42
+    },
+    {
+      "authors": [
+        "Shannan Schimmel"
+      ],
+      "sold": 42
+    },
+    {
+      "authors": [
+        "Teisha Effertz"
+      ],
+      "sold": 42
+    },
+    {
+      "authors": [
+        "Autumn Koch"
+      ],
+      "sold": 41
+    },
+    {
+      "authors": [
+        "Gricelda Kling LLD",
+        "Vicky Boehm"
+      ],
+      "sold": 41
+    },
+    {
+      "authors": [
+        "Cuc Schmeler",
+        "Ezra Schumm",
+        "Margart Blanda",
+        "Pandora Emard"
+      ],
+      "sold": 41
+    },
+    {
+      "authors": [
+        "Rod Rath",
+        "Stephania Windler"
+      ],
+      "sold": 41
+    },
+    {
+      "authors": [
+        "Miss Sari Monahan",
+        "Mr. Sherie Torp"
+      ],
+      "sold": 41
+    },
+    {
+      "authors": [
+        "Janetta Bogisich",
+        "Nereida Will I",
+        "Sylvester Bednar"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Isaac Douglas"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Cortney Parker",
+        "Denisha Ferry",
+        "Gema Breitenberg DC"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Lizette Grant",
+        "Mae Bergnaum"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Julene Zieme"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Iluminada Von"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Staci Terry"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Angelina Rowe"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Lynn Cormier LLD"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Arleen Anderson III",
+        "Cortez Botsford VM"
+      ],
+      "sold": 40
+    },
+    {
+      "authors": [
+        "Eugene Huel"
+      ],
+      "sold": 39
+    },
+    {
+      "authors": [
+        "Rep. Lavonia Fisher"
+      ],
+      "sold": 39
+    },
+    {
+      "authors": [
+        "Amina Kuhlman"
+      ],
+      "sold": 39
+    },
+    {
+      "authors": [
+        "Brent Reinger",
+        "Lou Trantow"
+      ],
+      "sold": 39
+    },
+    {
+      "authors": [
+        "Junior Reichert DC",
+        "Mariette Wisozk",
+        "Otto Halvorson Ret."
+      ],
+      "sold": 39
+    },
+    {
+      "authors": [
+        "Elliot Gibson",
+        "Miss Lan Koelpin"
+      ],
+      "sold": 38
+    },
+    {
+      "authors": [
+        "Efrain Crona"
+      ],
+      "sold": 38
+    },
+    {
+      "authors": [
+        "Bernardina Koss II"
+      ],
+      "sold": 38
+    },
+    {
+      "authors": [
+        "Samara Nikolaus"
+      ],
+      "sold": 37
+    },
+    {
+      "authors": [
+        "Julianne Doyle"
+      ],
+      "sold": 37
+    },
+    {
+      "authors": [
+        "Jimmy Hessel"
+      ],
+      "sold": 37
+    },
+    {
+      "authors": [
+        "Elliot Gibson"
+      ],
+      "sold": 37
+    },
+    {
+      "authors": [
+        "Johnie MacGyver DC"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Dr. Vernita Bosco"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Keira Waelchi"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Willene Aufderhar"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Hal Collier"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Bertha Leffler",
+        "Chuck Larson IV",
+        "Layne Halvorson"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Pei Bode"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Omar Hammes"
+      ],
+      "sold": 36
+    },
+    {
+      "authors": [
+        "Remona Jones DVM"
+      ],
+      "sold": 35
+    },
+    {
+      "authors": [
+        "Misty Streich"
+      ],
+      "sold": 35
+    },
+    {
+      "authors": [
+        "Amb. Nicky Emard",
+        "Doug Cummings",
+        "Kayce Rau",
+        "Renata Ziemann"
+      ],
+      "sold": 35
+    },
+    {
+      "authors": [
+        "Johnie Trantow"
+      ],
+      "sold": 35
+    },
+    {
+      "authors": [
+        "Lila Skiles",
+        "Sen. Demarcus Swaniawski"
+      ],
+      "sold": 34
+    },
+    {
+      "authors": [
+        "Celeste Grady"
+      ],
+      "sold": 34
+    },
+    {
+      "authors": [
+        "Christel Bogan"
+      ],
+      "sold": 34
+    },
+    {
+      "authors": [
+        "Johnie Hyatt"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Ardelia Mertz"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Andre Leannon"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Gricelda Kling LLD"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Linwood Monahan"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Irish Swaniawski"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Donn Barrows"
+      ],
+      "sold": 33
+    },
+    {
+      "authors": [
+        "Marlin Pfeffer"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Jane Sauer"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Otilia Auer"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Craig Kertzmann"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Dwain Kshlerin",
+        "Jospeh Ebert"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Micheal Treutel"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Bonnie Cruickshank"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Judson Schroeder"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Houston Kuvalis",
+        "Jaime Leannon JD",
+        "Maryrose Prohaska",
+        "Msgr. Zada Schimmel",
+        "Sen. Octavio Leannon"
+      ],
+      "sold": 32
+    },
+    {
+      "authors": [
+        "Alida Lesch CPA",
+        "Edison Bogan"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Elmo Walker MD"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Ricarda Rice"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Julene Zieme",
+        "Renata Ziemann"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Miss Lan Koelpin"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Vincent Bergnaum"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Kirk Little LLD"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Ralph Moore"
+      ],
+      "sold": 31
+    },
+    {
+      "authors": [
+        "Erin Kreiger",
+        "Miss Jamel Casper"
+      ],
+      "sold": 30
+    },
+    {
+      "authors": [
+        "Elmo Walker MD",
+        "Marlin Pfeffer"
+      ],
+      "sold": 30
+    },
+    {
+      "authors": [
+        "Sen. Demarcus Swaniawski"
+      ],
+      "sold": 30
+    },
+    {
+      "authors": [
+        "Rey Towne"
+      ],
+      "sold": 29
+    },
+    {
+      "authors": [
+        "Ana Friesen",
+        "Ty Bosco"
+      ],
+      "sold": 29
+    },
+    {
+      "authors": [
+        "Greg Williamson",
+        "Jacklyn Adams"
+      ],
+      "sold": 29
+    },
+    {
+      "authors": [
+        "Isaac Parker"
+      ],
+      "sold": 29
+    },
+    {
+      "authors": [
+        "Catheryn Walsh"
+      ],
+      "sold": 29
+    },
+    {
+      "authors": [
+        "Denisha Ferry",
+        "Gema Breitenberg DC"
+      ],
+      "sold": 28
+    },
+    {
+      "authors": [
+        "Jude Carroll"
+      ],
+      "sold": 28
+    },
+    {
+      "authors": [
+        "Prof. Glenn Wolff"
+      ],
+      "sold": 28
+    },
+    {
+      "authors": [
+        "Leola Olson"
+      ],
+      "sold": 28
+    },
+    {
+      "authors": [
+        "Santos Langworth"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Charlie Kohler"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Lieselotte Abshire"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Krysten Bernier"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Luella DuBuque MD"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Kasandra Cummings"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Bernadette Leuschke"
+      ],
+      "sold": 27
+    },
+    {
+      "authors": [
+        "Iluminada Von",
+        "Jaymie O'Conner"
+      ],
+      "sold": 26
+    },
+    {
+      "authors": [
+        "Lila Skiles"
+      ],
+      "sold": 26
+    },
+    {
+      "authors": [
+        "Boyce Stark V"
+      ],
+      "sold": 26
+    },
+    {
+      "authors": [
+        "Deon Hauck",
+        "Lila Oberbrunner"
+      ],
+      "sold": 26
+    },
+    {
+      "authors": [
+        "Veda Buckridge DDS",
+        "Virgil Hickle PhD"
+      ],
+      "sold": 25
+    },
+    {
+      "authors": [
+        "Romeo Jones"
+      ],
+      "sold": 25
+    },
+    {
+      "authors": [
+        "Freida Schroeder"
+      ],
+      "sold": 25
+    },
+    {
+      "authors": [
+        "Philip Kertzmann"
+      ],
+      "sold": 25
+    },
+    {
+      "authors": [
+        "Alesha Lang",
+        "Mrs. Brittney Quitzon"
+      ],
+      "sold": 25
+    },
+    {
+      "authors": [
+        "Elia Legros"
+      ],
+      "sold": 24
+    },
+    {
+      "authors": [
+        "Dottie Schuster"
+      ],
+      "sold": 24
+    },
+    {
+      "authors": [
+        "Jerome Carter"
+      ],
+      "sold": 24
+    },
+    {
+      "authors": [
+        "Elise Kshlerin Jr."
+      ],
+      "sold": 24
+    },
+    {
+      "authors": [
+        "The Hon. Jenee Heidenreich"
+      ],
+      "sold": 24
+    },
+    {
+      "authors": [
+        "Chad Mitchell",
+        "Siobhan Bauch"
+      ],
+      "sold": 23
+    },
+    {
+      "authors": [
+        "Frederica Ritchie"
+      ],
+      "sold": 23
+    },
+    {
+      "authors": [
+        "Chi Littel"
+      ],
+      "sold": 23
+    },
+    {
+      "authors": [
+        "Kristin Nikolaus"
+      ],
+      "sold": 23
+    },
+    {
+      "authors": [
+        "Lelah Hegmann",
+        "Ms. Augusta Larkin"
+      ],
+      "sold": 22
+    },
+    {
+      "authors": [
+        "The Hon. Aliza Bode"
+      ],
+      "sold": 22
+    },
+    {
+      "authors": [
+        "Gretchen Ruecker"
+      ],
+      "sold": 22
+    },
+    {
+      "authors": [
+        "Evelia Aufderhar V",
+        "Luke Schumm",
+        "Sen. Bradly Jaskolski"
+      ],
+      "sold": 22
+    },
+    {
+      "authors": [
+        "Ezra Schumm",
+        "Lila Oberbrunner",
+        "Margart Blanda",
+        "Pandora Emard"
+      ],
+      "sold": 22
+    },
+    {
+      "authors": [
+        "Merrill Rodriguez DDS"
+      ],
+      "sold": 21
+    },
+    {
+      "authors": [
+        "Miss Vella Gleichner"
+      ],
+      "sold": 21
+    },
+    {
+      "authors": [
+        "Kasandra Cummings",
+        "Linwood Monahan"
+      ],
+      "sold": 21
+    },
+    {
+      "authors": [
+        "Yolonda Anderson"
+      ],
+      "sold": 21
+    },
+    {
+      "authors": [
+        "Amb. Nicky Emard",
+        "Doug Cummings",
+        "Kayce Rau"
+      ],
+      "sold": 20
+    },
+    {
+      "authors": [
+        "Jeromy Weber",
+        "Shery Cartwright"
+      ],
+      "sold": 20
+    },
+    {
+      "authors": [
+        "Ms. Rosaline Emard"
+      ],
+      "sold": 20
+    },
+    {
+      "authors": [
+        "Conrad Ritchie"
+      ],
+      "sold": 20
+    },
+    {
+      "authors": [
+        "Cortney Parker"
+      ],
+      "sold": 20
+    },
+    {
+      "authors": [
+        "Bettina Orn MD"
+      ],
+      "sold": 19
+    },
+    {
+      "authors": [
+        "Johnie MacGyver DC",
+        "Miss Vella Gleichner"
+      ],
+      "sold": 19
+    },
+    {
+      "authors": [
+        "Jeff Stokes"
+      ],
+      "sold": 19
+    },
+    {
+      "authors": [
+        "Carlton Towne"
+      ],
+      "sold": 19
+    },
+    {
+      "authors": [
+        "Alejandro Champlin",
+        "Jerilyn Greenfelder I",
+        "Lashell Hermann"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Leena Gerhold Esq."
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Pa Gutmann III"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Arden Nicolas"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Rod Rath"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Cliff Langworth"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Ana Friesen"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Arleen Anderson III",
+        "Cortez Botsford VM",
+        "Greg Williamson",
+        "Jacklyn Adams"
+      ],
+      "sold": 18
+    },
+    {
+      "authors": [
+        "Msgr. Aaron D'Amore"
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Maisha Dibbert"
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Bryon Lubowitz PhD",
+        "Buford Howe",
+        "Eddy Macejkovic",
+        "Fermin Mayert Ret."
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Aurelio King Sr."
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Felton Thiel DC"
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Pres. Amiee Rowe"
+      ],
+      "sold": 17
+    },
+    {
+      "authors": [
+        "Renata Ziemann"
+      ],
+      "sold": 16
+    },
+    {
+      "authors": [
+        "Mandi Ritchie"
+      ],
+      "sold": 16
+    },
+    {
+      "authors": [
+        "Elsie Donnelly",
+        "Tamesha Toy"
+      ],
+      "sold": 16
+    },
+    {
+      "authors": [
+        "Lilian Konopelski"
+      ],
+      "sold": 16
+    },
+    {
+      "authors": [
+        "Leena Gerhold Esq.",
+        "Lilian Konopelski"
+      ],
+      "sold": 15
+    },
+    {
+      "authors": [
+        "Esteban Buckridge DC"
+      ],
+      "sold": 15
+    },
+    {
+      "authors": [
+        "Chantel Stoltenberg",
+        "Mariano Nolan"
+      ],
+      "sold": 15
+    },
+    {
+      "authors": [
+        "Isaac Douglas",
+        "Suzie Romaguera DC"
+      ],
+      "sold": 15
+    },
+    {
+      "authors": [
+        "Fr. Mahalia Morissette",
+        "Jude Runolfsdottir PhD",
+        "Milan Moen"
+      ],
+      "sold": 15
+    },
+    {
+      "authors": [
+        "Gaylene Crist",
+        "Lacy Langosh",
+        "Mabelle Wisoky"
+      ],
+      "sold": 14
+    },
+    {
+      "authors": [
+        "Yelena Spinka"
+      ],
+      "sold": 14
+    },
+    {
+      "authors": [
+        "Forest Weber",
+        "Levi Schuppe"
+      ],
+      "sold": 14
+    },
+    {
+      "authors": [
+        "Evelia Aufderhar V",
+        "Luke Schumm",
+        "Prof. Glenn Wolff",
+        "Sen. Bradly Jaskolski"
+      ],
+      "sold": 12
+    },
+    {
+      "authors": [
+        "Velma Hand",
+        "Woodrow Simonis"
+      ],
+      "sold": 12
+    },
+    {
+      "authors": [
+        "Markus Anderson"
+      ],
+      "sold": 12
+    },
+    {
+      "authors": [
+        "Nestor Baumbach"
+      ],
+      "sold": 11
+    },
+    {
+      "authors": [
+        "Mike Funk"
+      ],
+      "sold": 11
+    },
+    {
+      "authors": [
+        "Dwain Kshlerin"
+      ],
+      "sold": 11
+    },
+    {
+      "authors": [
+        "Vicky Boehm"
+      ],
+      "sold": 11
+    },
+    {
+      "authors": [
+        "Freida Schroeder",
+        "Keira Waelchi"
+      ],
+      "sold": 10
+    },
+    {
+      "authors": [
+        "Erik Hackett",
+        "Monroe Osinski",
+        "Sherlyn Sipes"
+      ],
+      "sold": 10
+    },
+    {
+      "authors": [
+        "Kara Simonis"
+      ],
+      "sold": 9
+    },
+    {
+      "authors": [
+        "Amb. Robyn Von",
+        "Sun Yost"
+      ],
+      "sold": 9
+    },
+    {
+      "authors": [
+        "Ashley Huel Sr.",
+        "Ricarda Rice"
+      ],
+      "sold": 8
+    },
+    {
+      "authors": [
+        "Eugene Rath"
+      ],
+      "sold": 8
+    }
+  ],
+  "daily_revenue": [
+    {
+      "date": "2024-11-24",
+      "revenue": 38.5
+    },
+    {
+      "date": "2024-11-25",
+      "revenue": 92.5
+    },
+    {
+      "date": "2024-12-02",
+      "revenue": 99.0
+    },
+    {
+      "date": "2024-12-09",
+      "revenue": 66.5
+    },
+    {
+      "date": "2024-12-11",
+      "revenue": 24.5
+    },
+    {
+      "date": "2024-12-12",
+      "revenue": 64.0
+    },
+    {
+      "date": "2024-12-14",
+      "revenue": 73.0
+    },
+    {
+      "date": "2024-12-15",
+      "revenue": 205.2
+    },
+    {
+      "date": "2024-12-17",
+      "revenue": 72.89
+    },
+    {
+      "date": "2024-12-18",
+      "revenue": 62.0
+    },
+    {
+      "date": "2024-12-20",
+      "revenue": 268.75
+    },
+    {
+      "date": "2024-12-21",
+      "revenue": 16.5
+    },
+    {
+      "date": "2024-12-23",
+      "revenue": 122.4
+    },
+    {
+      "date": "2024-12-24",
+      "revenue": 76.1
+    },
+    {
+      "date": "2024-12-25",
+      "revenue": 93.6
+    },
+    {
+      "date": "2024-12-26",
+      "revenue": 114.39
+    },
+    {
+      "date": "2024-12-27",
+      "revenue": 170.85
+    },
+    {
+      "date": "2024-12-28",
+      "revenue": 372.0
+    },
+    {
+      "date": "2024-12-29",
+      "revenue": 103.2
+    },
+    {
+      "date": "2024-12-30",
+      "revenue": 46.75
+    },
+    {
+      "date": "2024-12-31",
+      "revenue": 36.99
+    },
+    {
+      "date": "2025-01-01",
+      "revenue": 171.95
+    },
+    {
+      "date": "2025-01-02",
+      "revenue": 118.0
+    },
+    {
+      "date": "2025-01-03",
+      "revenue": 125.5
+    },
+    {
+      "date": "2025-01-04",
+      "revenue": 28.79
+    },
+    {
+      "date": "2025-01-05",
+      "revenue": 450.0
+    },
+    {
+      "date": "2025-01-06",
+      "revenue": 146.54
+    },
+    {
+      "date": "2025-01-08",
+      "revenue": 95.4
+    },
+    {
+      "date": "2025-01-09",
+      "revenue": 97.2
+    },
+    {
+      "date": "2025-01-10",
+      "revenue": 376.0
+    },
+    {
+      "date": "2025-01-11",
+      "revenue": 118.0
+    },
+    {
+      "date": "2025-01-13",
+      "revenue": 120.0
+    },
+    {
+      "date": "2025-01-14",
+      "revenue": 399.0
+    },
+    {
+      "date": "2025-01-16",
+      "revenue": 109.75
+    },
+    {
+      "date": "2025-01-17",
+      "revenue": 695.19
+    },
+    {
+      "date": "2025-01-19",
+      "revenue": 195.25
+    },
+    {
+      "date": "2025-01-20",
+      "revenue": 58.0
+    },
+    {
+      "date": "2025-01-21",
+      "revenue": 370.25
+    },
+    {
+      "date": "2025-01-22",
+      "revenue": 188.75
+    },
+    {
+      "date": "2025-01-23",
+      "revenue": 282.39
+    },
+    {
+      "date": "2025-01-24",
+      "revenue": 308.48
+    },
+    {
+      "date": "2025-01-25",
+      "revenue": 500.2
+    },
+    {
+      "date": "2025-01-26",
+      "revenue": 70.25
+    },
+    {
+      "date": "2025-01-28",
+      "revenue": 245.0
+    },
+    {
+      "date": "2025-01-29",
+      "revenue": 128.75
+    },
+    {
+      "date": "2025-01-30",
+      "revenue": 117.75
+    },
+    {
+      "date": "2025-01-31",
+      "revenue": 376.23
+    },
+    {
+      "date": "2025-02-01",
+      "revenue": 42.75
+    },
+    {
+      "date": "2025-02-02",
+      "revenue": 481.8
+    },
+    {
+      "date": "2025-02-03",
+      "revenue": 222.75
+    },
+    {
+      "date": "2025-02-04",
+      "revenue": 207.5
+    },
+    {
+      "date": "2025-02-05",
+      "revenue": 241.74
+    },
+    {
+      "date": "2025-02-06",
+      "revenue": 169.69
+    },
+    {
+      "date": "2025-02-07",
+      "revenue": 149.99
+    },
+    {
+      "date": "2025-02-08",
+      "revenue": 482.0
+    },
+    {
+      "date": "2025-02-09",
+      "revenue": 177.2
+    },
+    {
+      "date": "2025-02-10",
+      "revenue": 446.75
+    },
+    {
+      "date": "2025-02-11",
+      "revenue": 323.4
+    },
+    {
+      "date": "2025-02-12",
+      "revenue": 155.7
+    },
+    {
+      "date": "2025-02-13",
+      "revenue": 528.45
+    },
+    {
+      "date": "2025-02-14",
+      "revenue": 440.3
+    },
+    {
+      "date": "2025-02-15",
+      "revenue": 829.36
+    },
+    {
+      "date": "2025-02-16",
+      "revenue": 291.45
+    },
+    {
+      "date": "2025-02-17",
+      "revenue": 334.23
+    },
+    {
+      "date": "2025-02-18",
+      "revenue": 268.76
+    },
+    {
+      "date": "2025-02-19",
+      "revenue": 442.35
+    },
+    {
+      "date": "2025-02-20",
+      "revenue": 412.8
+    },
+    {
+      "date": "2025-02-21",
+      "revenue": 413.8
+    },
+    {
+      "date": "2025-02-22",
+      "revenue": 204.24
+    },
+    {
+      "date": "2025-02-23",
+      "revenue": 292.75
+    },
+    {
+      "date": "2025-02-24",
+      "revenue": 477.86
+    },
+    {
+      "date": "2025-02-25",
+      "revenue": 254.85
+    },
+    {
+      "date": "2025-02-26",
+      "revenue": 675.65
+    },
+    {
+      "date": "2025-02-27",
+      "revenue": 238.5
+    },
+    {
+      "date": "2025-02-28",
+      "revenue": 363.49
+    },
+    {
+      "date": "2025-03-01",
+      "revenue": 436.7
+    },
+    {
+      "date": "2025-03-02",
+      "revenue": 638.4
+    },
+    {
+      "date": "2025-03-03",
+      "revenue": 423.22
+    },
+    {
+      "date": "2025-03-04",
+      "revenue": 235.2
+    },
+    {
+      "date": "2025-03-05",
+      "revenue": 373.75
+    },
+    {
+      "date": "2025-03-06",
+      "revenue": 322.4
+    },
+    {
+      "date": "2025-03-07",
+      "revenue": 861.1
+    },
+    {
+      "date": "2025-03-08",
+      "revenue": 349.4
+    },
+    {
+      "date": "2025-03-09",
+      "revenue": 607.08
+    },
+    {
+      "date": "2025-03-10",
+      "revenue": 520.1
+    },
+    {
+      "date": "2025-03-11",
+      "revenue": 599.34
+    },
+    {
+      "date": "2025-03-12",
+      "revenue": 352.0
+    },
+    {
+      "date": "2025-03-13",
+      "revenue": 848.65
+    },
+    {
+      "date": "2025-03-14",
+      "revenue": 236.3
+    },
+    {
+      "date": "2025-03-15",
+      "revenue": 287.75
+    },
+    {
+      "date": "2025-03-16",
+      "revenue": 156.25
+    },
+    {
+      "date": "2025-03-17",
+      "revenue": 553.5
+    },
+    {
+      "date": "2025-03-18",
+      "revenue": 355.85
+    },
+    {
+      "date": "2025-03-19",
+      "revenue": 780.72
+    },
+    {
+      "date": "2025-03-20",
+      "revenue": 570.35
+    },
+    {
+      "date": "2025-03-21",
+      "revenue": 859.48
+    },
+    {
+      "date": "2025-03-22",
+      "revenue": 708.12
+    },
+    {
+      "date": "2025-03-23",
+      "revenue": 622.48
+    },
+    {
+      "date": "2025-03-24",
+      "revenue": 1353.44
+    },
+    {
+      "date": "2025-03-25",
+      "revenue": 197.65
+    },
+    {
+      "date": "2025-03-26",
+      "revenue": 156.0
+    },
+    {
+      "date": "2025-03-27",
+      "revenue": 380.0
+    },
+    {
+      "date": "2025-03-28",
+      "revenue": 570.2
+    },
+    {
+      "date": "2025-03-29",
+      "revenue": 576.32
+    },
+    {
+      "date": "2025-03-30",
+      "revenue": 1043.44
+    },
+    {
+      "date": "2025-03-31",
+      "revenue": 180.25
+    },
+    {
+      "date": "2025-04-01",
+      "revenue": 515.0
+    },
+    {
+      "date": "2025-04-02",
+      "revenue": 1171.13
+    },
+    {
+      "date": "2025-04-03",
+      "revenue": 930.45
+    },
+    {
+      "date": "2025-04-04",
+      "revenue": 641.23
+    },
+    {
+      "date": "2025-04-05",
+      "revenue": 432.08
+    },
+    {
+      "date": "2025-04-06",
+      "revenue": 552.24
+    },
+    {
+      "date": "2025-04-07",
+      "revenue": 231.6
+    },
+    {
+      "date": "2025-04-08",
+      "revenue": 603.73
+    },
+    {
+      "date": "2025-04-09",
+      "revenue": 432.5
+    },
+    {
+      "date": "2025-04-10",
+      "revenue": 740.94
+    },
+    {
+      "date": "2025-04-11",
+      "revenue": 962.89
+    },
+    {
+      "date": "2025-04-12",
+      "revenue": 768.37
+    },
+    {
+      "date": "2025-04-13",
+      "revenue": 714.2
+    },
+    {
+      "date": "2025-04-14",
+      "revenue": 1001.61
+    },
+    {
+      "date": "2025-04-15",
+      "revenue": 679.72
+    },
+    {
+      "date": "2025-04-16",
+      "revenue": 753.92
+    },
+    {
+      "date": "2025-04-17",
+      "revenue": 434.05
+    },
+    {
+      "date": "2025-04-18",
+      "revenue": 1080.2
+    },
+    {
+      "date": "2025-04-19",
+      "revenue": 546.3
+    },
+    {
+      "date": "2025-04-20",
+      "revenue": 627.04
+    },
+    {
+      "date": "2025-04-21",
+      "revenue": 508.6
+    },
+    {
+      "date": "2025-04-22",
+      "revenue": 826.38
+    },
+    {
+      "date": "2025-04-23",
+      "revenue": 633.0
+    },
+    {
+      "date": "2025-04-24",
+      "revenue": 994.32
+    },
+    {
+      "date": "2025-04-25",
+      "revenue": 447.09
+    },
+    {
+      "date": "2025-04-26",
+      "revenue": 870.04
+    },
+    {
+      "date": "2025-04-27",
+      "revenue": 854.18
+    },
+    {
+      "date": "2025-04-28",
+      "revenue": 634.18
+    },
+    {
+      "date": "2025-04-29",
+      "revenue": 1402.98
+    },
+    {
+      "date": "2025-04-30",
+      "revenue": 578.1
+    },
+    {
+      "date": "2025-05-01",
+      "revenue": 521.95
+    },
+    {
+      "date": "2025-05-02",
+      "revenue": 716.88
+    },
+    {
+      "date": "2025-05-03",
+      "revenue": 1613.95
+    },
+    {
+      "date": "2025-05-04",
+      "revenue": 384.24
+    },
+    {
+      "date": "2025-05-05",
+      "revenue": 1082.77
+    },
+    {
+      "date": "2025-05-06",
+      "revenue": 1208.74
+    },
+    {
+      "date": "2025-05-07",
+      "revenue": 398.98
+    },
+    {
+      "date": "2025-05-08",
+      "revenue": 551.25
+    },
+    {
+      "date": "2025-05-09",
+      "revenue": 672.59
+    },
+    {
+      "date": "2025-05-10",
+      "revenue": 901.04
+    },
+    {
+      "date": "2025-05-11",
+      "revenue": 1243.12
+    },
+    {
+      "date": "2025-05-12",
+      "revenue": 1015.16
+    },
+    {
+      "date": "2025-05-13",
+      "revenue": 1094.04
+    },
+    {
+      "date": "2025-05-14",
+      "revenue": 1160.69
+    },
+    {
+      "date": "2025-05-15",
+      "revenue": 378.85
+    },
+    {
+      "date": "2025-05-16",
+      "revenue": 932.6
+    },
+    {
+      "date": "2025-05-17",
+      "revenue": 2045.99
+    },
+    {
+      "date": "2025-05-18",
+      "revenue": 977.55
+    },
+    {
+      "date": "2025-05-19",
+      "revenue": 1349.25
+    },
+    {
+      "date": "2025-05-20",
+      "revenue": 1179.23
+    },
+    {
+      "date": "2025-05-21",
+      "revenue": 1191.84
+    },
+    {
+      "date": "2025-05-22",
+      "revenue": 854.43
+    },
+    {
+      "date": "2025-05-23",
+      "revenue": 1998.92
+    },
+    {
+      "date": "2025-05-24",
+      "revenue": 666.42
+    },
+    {
+      "date": "2025-05-25",
+      "revenue": 1392.62
+    },
+    {
+      "date": "2025-05-26",
+      "revenue": 1128.79
+    },
+    {
+      "date": "2025-05-27",
+      "revenue": 662.82
+    },
+    {
+      "date": "2025-05-28",
+      "revenue": 616.58
+    },
+    {
+      "date": "2025-05-29",
+      "revenue": 1015.24
+    },
+    {
+      "date": "2025-05-30",
+      "revenue": 1049.55
+    },
+    {
+      "date": "2025-05-31",
+      "revenue": 1034.84
+    },
+    {
+      "date": "2025-06-01",
+      "revenue": 1700.17
+    },
+    {
+      "date": "2025-06-02",
+      "revenue": 1599.22
+    },
+    {
+      "date": "2025-06-03",
+      "revenue": 1336.87
+    },
+    {
+      "date": "2025-06-04",
+      "revenue": 1071.19
+    },
+    {
+      "date": "2025-06-05",
+      "revenue": 732.1
+    },
+    {
+      "date": "2025-06-06",
+      "revenue": 1079.24
+    },
+    {
+      "date": "2025-06-07",
+      "revenue": 1297.9
+    },
+    {
+      "date": "2025-06-08",
+      "revenue": 1362.39
+    },
+    {
+      "date": "2025-06-09",
+      "revenue": 978.3
+    },
+    {
+      "date": "2025-06-10",
+      "revenue": 1414.83
+    },
+    {
+      "date": "2025-06-11",
+      "revenue": 736.54
+    },
+    {
+      "date": "2025-06-12",
+      "revenue": 1384.36
+    },
+    {
+      "date": "2025-06-13",
+      "revenue": 1506.93
+    },
+    {
+      "date": "2025-06-14",
+      "revenue": 761.1
+    },
+    {
+      "date": "2025-06-15",
+      "revenue": 1313.25
+    },
+    {
+      "date": "2025-06-16",
+      "revenue": 1394.83
+    },
+    {
+      "date": "2025-06-17",
+      "revenue": 1303.33
+    },
+    {
+      "date": "2025-06-18",
+      "revenue": 1809.43
+    },
+    {
+      "date": "2025-06-19",
+      "revenue": 1563.32
+    },
+    {
+      "date": "2025-06-20",
+      "revenue": 707.03
+    },
+    {
+      "date": "2025-06-21",
+      "revenue": 901.6
+    },
+    {
+      "date": "2025-06-22",
+      "revenue": 1256.13
+    },
+    {
+      "date": "2025-06-23",
+      "revenue": 1392.81
+    },
+    {
+      "date": "2025-06-24",
+      "revenue": 1904.89
+    },
+    {
+      "date": "2025-06-25",
+      "revenue": 1556.3
+    },
+    {
+      "date": "2025-06-26",
+      "revenue": 1200.46
+    },
+    {
+      "date": "2025-06-27",
+      "revenue": 1223.65
+    },
+    {
+      "date": "2025-06-28",
+      "revenue": 1443.78
+    },
+    {
+      "date": "2025-06-29",
+      "revenue": 2288.77
+    },
+    {
+      "date": "2025-06-30",
+      "revenue": 1078.76
+    },
+    {
+      "date": "2025-07-01",
+      "revenue": 1120.63
+    },
+    {
+      "date": "2025-07-02",
+      "revenue": 1545.42
+    },
+    {
+      "date": "2025-07-03",
+      "revenue": 1457.92
+    },
+    {
+      "date": "2025-07-04",
+      "revenue": 1755.51
+    },
+    {
+      "date": "2025-07-05",
+      "revenue": 1417.9
+    },
+    {
+      "date": "2025-07-06",
+      "revenue": 1958.12
+    },
+    {
+      "date": "2025-07-07",
+      "revenue": 926.37
+    },
+    {
+      "date": "2025-07-08",
+      "revenue": 1349.92
+    },
+    {
+      "date": "2025-07-09",
+      "revenue": 866.79
+    },
+    {
+      "date": "2025-07-10",
+      "revenue": 1812.26
+    },
+    {
+      "date": "2025-07-11",
+      "revenue": 1503.31
+    },
+    {
+      "date": "2025-07-12",
+      "revenue": 1836.39
+    },
+    {
+      "date": "2025-07-13",
+      "revenue": 1697.97
+    },
+    {
+      "date": "2025-07-14",
+      "revenue": 1277.11
+    },
+    {
+      "date": "2025-07-15",
+      "revenue": 1975.53
+    },
+    {
+      "date": "2025-07-16",
+      "revenue": 1110.85
+    },
+    {
+      "date": "2025-07-17",
+      "revenue": 1839.58
+    },
+    {
+      "date": "2025-07-18",
+      "revenue": 2346.03
+    },
+    {
+      "date": "2025-07-19",
+      "revenue": 1717.44
+    },
+    {
+      "date": "2025-07-20",
+      "revenue": 1991.8
+    },
+    {
+      "date": "2025-07-21",
+      "revenue": 2121.79
+    },
+    {
+      "date": "2025-07-22",
+      "revenue": 1236.39
+    },
+    {
+      "date": "2025-07-23",
+      "revenue": 2350.39
+    },
+    {
+      "date": "2025-07-24",
+      "revenue": 1336.07
+    },
+    {
+      "date": "2025-07-25",
+      "revenue": 2371.53
+    },
+    {
+      "date": "2025-07-26",
+      "revenue": 1290.79
+    },
+    {
+      "date": "2025-07-27",
+      "revenue": 2186.47
+    },
+    {
+      "date": "2025-07-28",
+      "revenue": 1410.83
+    },
+    {
+      "date": "2025-07-29",
+      "revenue": 1076.14
+    },
+    {
+      "date": "2025-07-30",
+      "revenue": 1167.19
+    },
+    {
+      "date": "2025-07-31",
+      "revenue": 2152.62
+    },
+    {
+      "date": "2025-08-01",
+      "revenue": 1716.26
+    },
+    {
+      "date": "2025-08-02",
+      "revenue": 2338.54
+    },
+    {
+      "date": "2025-08-03",
+      "revenue": 2102.19
+    },
+    {
+      "date": "2025-08-04",
+      "revenue": 1179.8
+    },
+    {
+      "date": "2025-08-05",
+      "revenue": 2307.21
+    },
+    {
+      "date": "2025-08-06",
+      "revenue": 1766.73
+    },
+    {
+      "date": "2025-08-07",
+      "revenue": 1483.2
+    },
+    {
+      "date": "2025-08-08",
+      "revenue": 2158.94
+    },
+    {
+      "date": "2025-08-09",
+      "revenue": 1715.87
+    },
+    {
+      "date": "2025-08-10",
+      "revenue": 1685.63
+    },
+    {
+      "date": "2025-08-11",
+      "revenue": 2223.36
+    },
+    {
+      "date": "2025-08-12",
+      "revenue": 2159.47
+    },
+    {
+      "date": "2025-08-13",
+      "revenue": 1587.93
+    },
+    {
+      "date": "2025-08-14",
+      "revenue": 1386.32
+    },
+    {
+      "date": "2025-08-15",
+      "revenue": 2648.15
+    },
+    {
+      "date": "2025-08-16",
+      "revenue": 2448.02
+    },
+    {
+      "date": "2025-08-17",
+      "revenue": 2753.21
+    },
+    {
+      "date": "2025-08-18",
+      "revenue": 1460.83
+    },
+    {
+      "date": "2025-08-19",
+      "revenue": 1909.0
+    },
+    {
+      "date": "2025-08-20",
+      "revenue": 1627.34
+    },
+    {
+      "date": "2025-08-21",
+      "revenue": 2700.47
+    },
+    {
+      "date": "2025-08-22",
+      "revenue": 1845.81
+    },
+    {
+      "date": "2025-08-23",
+      "revenue": 2149.11
+    },
+    {
+      "date": "2025-08-24",
+      "revenue": 2315.82
+    },
+    {
+      "date": "2025-08-25",
+      "revenue": 1693.37
+    },
+    {
+      "date": "2025-08-26",
+      "revenue": 1482.08
+    },
+    {
+      "date": "2025-08-27",
+      "revenue": 1740.97
+    },
+    {
+      "date": "2025-08-28",
+      "revenue": 2907.87
+    },
+    {
+      "date": "2025-08-29",
+      "revenue": 2729.02
+    },
+    {
+      "date": "2025-08-30",
+      "revenue": 2305.71
+    },
+    {
+      "date": "2025-08-31",
+      "revenue": 1642.87
+    },
+    {
+      "date": "2025-09-01",
+      "revenue": 2936.02
+    },
+    {
+      "date": "2025-09-02",
+      "revenue": 2270.19
+    },
+    {
+      "date": "2025-09-03",
+      "revenue": 1832.38
+    },
+    {
+      "date": "2025-09-04",
+      "revenue": 3040.2
+    },
+    {
+      "date": "2025-09-05",
+      "revenue": 2032.59
+    },
+    {
+      "date": "2025-09-06",
+      "revenue": 2660.82
+    },
+    {
+      "date": "2025-09-07",
+      "revenue": 2446.51
+    },
+    {
+      "date": "2025-09-08",
+      "revenue": 1317.73
+    },
+    {
+      "date": "2025-09-09",
+      "revenue": 2591.57
+    },
+    {
+      "date": "2025-09-10",
+      "revenue": 1891.62
+    },
+    {
+      "date": "2025-09-11",
+      "revenue": 2217.58
+    },
+    {
+      "date": "2025-09-12",
+      "revenue": 1267.36
+    },
+    {
+      "date": "2025-09-13",
+      "revenue": 2406.68
+    },
+    {
+      "date": "2025-09-14",
+      "revenue": 1642.68
+    },
+    {
+      "date": "2025-09-15",
+      "revenue": 1807.2
+    },
+    {
+      "date": "2025-09-16",
+      "revenue": 1790.06
+    },
+    {
+      "date": "2025-09-17",
+      "revenue": 2424.89
+    },
+    {
+      "date": "2025-09-18",
+      "revenue": 2333.78
+    },
+    {
+      "date": "2025-09-19",
+      "revenue": 2639.53
+    },
+    {
+      "date": "2025-09-20",
+      "revenue": 2459.78
+    },
+    {
+      "date": "2025-09-21",
+      "revenue": 3242.4
+    },
+    {
+      "date": "2025-09-22",
+      "revenue": 1955.2
+    },
+    {
+      "date": "2025-09-23",
+      "revenue": 2310.73
+    },
+    {
+      "date": "2025-09-24",
+      "revenue": 1756.75
+    },
+    {
+      "date": "2025-09-25",
+      "revenue": 2062.73
+    },
+    {
+      "date": "2025-09-26",
+      "revenue": 2142.98
+    },
+    {
+      "date": "2025-09-27",
+      "revenue": 1992.81
+    },
+    {
+      "date": "2025-09-28",
+      "revenue": 1924.76
+    },
+    {
+      "date": "2025-09-29",
+      "revenue": 2455.25
+    },
+    {
+      "date": "2025-09-30",
+      "revenue": 3016.1
+    },
+    {
+      "date": "2025-10-01",
+      "revenue": 1729.9
+    },
+    {
+      "date": "2025-10-02",
+      "revenue": 2363.06
+    },
+    {
+      "date": "2025-10-03",
+      "revenue": 2438.83
+    },
+    {
+      "date": "2025-10-04",
+      "revenue": 2540.16
+    },
+    {
+      "date": "2025-10-05",
+      "revenue": 1850.88
+    },
+    {
+      "date": "2025-10-06",
+      "revenue": 1898.65
+    },
+    {
+      "date": "2025-10-07",
+      "revenue": 2562.89
+    },
+    {
+      "date": "2025-10-08",
+      "revenue": 2696.03
+    },
+    {
+      "date": "2025-10-09",
+      "revenue": 3551.19
+    },
+    {
+      "date": "2025-10-10",
+      "revenue": 1865.89
+    },
+    {
+      "date": "2025-10-11",
+      "revenue": 1879.52
+    },
+    {
+      "date": "2025-10-12",
+      "revenue": 2361.38
+    },
+    {
+      "date": "2025-10-13",
+      "revenue": 1559.15
+    },
+    {
+      "date": "2025-10-14",
+      "revenue": 2698.96
+    },
+    {
+      "date": "2025-10-15",
+      "revenue": 1968.19
+    },
+    {
+      "date": "2025-10-16",
+      "revenue": 1802.09
+    },
+    {
+      "date": "2025-10-17",
+      "revenue": 1850.63
+    },
+    {
+      "date": "2025-10-18",
+      "revenue": 2342.2
+    },
+    {
+      "date": "2025-10-19",
+      "revenue": 1749.32
+    },
+    {
+      "date": "2025-10-20",
+      "revenue": 2336.7
+    },
+    {
+      "date": "2025-10-21",
+      "revenue": 2067.71
+    },
+    {
+      "date": "2025-10-22",
+      "revenue": 1815.97
+    },
+    {
+      "date": "2025-10-23",
+      "revenue": 2811.45
+    },
+    {
+      "date": "2025-10-24",
+      "revenue": 2322.9
+    },
+    {
+      "date": "2025-10-25",
+      "revenue": 2835.77
+    },
+    {
+      "date": "2025-10-26",
+      "revenue": 1736.21
+    },
+    {
+      "date": "2025-10-27",
+      "revenue": 2153.15
+    },
+    {
+      "date": "2025-10-28",
+      "revenue": 2220.89
+    },
+    {
+      "date": "2025-10-29",
+      "revenue": 1442.82
+    },
+    {
+      "date": "2025-10-30",
+      "revenue": 1974.82
+    },
+    {
+      "date": "2025-10-31",
+      "revenue": 2089.45
+    },
+    {
+      "date": "2025-11-01",
+      "revenue": 1666.06
+    },
+    {
+      "date": "2025-11-02",
+      "revenue": 1678.11
+    },
+    {
+      "date": "2025-11-03",
+      "revenue": 1949.96
+    },
+    {
+      "date": "2025-11-04",
+      "revenue": 2365.17
+    },
+    {
+      "date": "2025-11-05",
+      "revenue": 2003.11
+    },
+    {
+      "date": "2025-11-06",
+      "revenue": 2169.84
+    },
+    {
+      "date": "2025-11-07",
+      "revenue": 2347.84
+    },
+    {
+      "date": "2025-11-08",
+      "revenue": 1989.13
+    },
+    {
+      "date": "2025-11-09",
+      "revenue": 1972.68
+    },
+    {
+      "date": "2025-11-10",
+      "revenue": 2008.89
+    },
+    {
+      "date": "2025-11-11",
+      "revenue": 2166.94
+    },
+    {
+      "date": "2025-11-12",
+      "revenue": 1601.49
+    },
+    {
+      "date": "2025-11-13",
+      "revenue": 2095.63
+    },
+    {
+      "date": "2025-11-14",
+      "revenue": 1750.48
+    },
+    {
+      "date": "2025-11-15",
+      "revenue": 1456.93
+    },
+    {
+      "date": "2025-11-16",
+      "revenue": 2749.79
+    },
+    {
+      "date": "2025-11-17",
+      "revenue": 1778.22
+    },
+    {
+      "date": "2025-11-18",
+      "revenue": 1825.5
+    },
+    {
+      "date": "2025-11-19",
+      "revenue": 2340.42
+    },
+    {
+      "date": "2025-11-20",
+      "revenue": 1807.03
+    },
+    {
+      "date": "2025-11-21",
+      "revenue": 2483.33
+    },
+    {
+      "date": "2025-11-22",
+      "revenue": 1955.18
+    },
+    {
+      "date": "2025-11-23",
+      "revenue": 2218.42
+    },
+    {
+      "date": "2025-11-24",
+      "revenue": 2279.56
+    },
+    {
+      "date": "2025-11-25",
+      "revenue": 1544.9
+    },
+    {
+      "date": "2025-11-26",
+      "revenue": 2508.64
+    },
+    {
+      "date": "2025-11-27",
+      "revenue": 1510.48
+    },
+    {
+      "date": "2025-11-28",
+      "revenue": 2422.59
+    },
+    {
+      "date": "2025-11-29",
+      "revenue": 2719.48
+    },
+    {
+      "date": "2025-11-30",
+      "revenue": 1513.55
+    },
+    {
+      "date": "2025-12-01",
+      "revenue": 2555.76
+    },
+    {
+      "date": "2025-12-02",
+      "revenue": 2352.66
+    },
+    {
+      "date": "2025-12-03",
+      "revenue": 2420.18
+    },
+    {
+      "date": "2025-12-04",
+      "revenue": 2180.99
+    },
+    {
+      "date": "2025-12-05",
+      "revenue": 1744.6
+    },
+    {
+      "date": "2025-12-06",
+      "revenue": 1340.65
+    },
+    {
+      "date": "2025-12-07",
+      "revenue": 1248.08
+    },
+    {
+      "date": "2025-12-08",
+      "revenue": 1657.23
+    },
+    {
+      "date": "2025-12-09",
+      "revenue": 1434.07
+    },
+    {
+      "date": "2025-12-10",
+      "revenue": 2692.88
+    },
+    {
+      "date": "2025-12-11",
+      "revenue": 2292.76
+    },
+    {
+      "date": "2025-12-12",
+      "revenue": 2432.07
+    },
+    {
+      "date": "2025-12-13",
+      "revenue": 2695.32
+    },
+    {
+      "date": "2025-12-14",
+      "revenue": 1927.04
+    },
+    {
+      "date": "2025-12-15",
+      "revenue": 1812.1
+    },
+    {
+      "date": "2025-12-16",
+      "revenue": 1201.08
+    },
+    {
+      "date": "2025-12-17",
+      "revenue": 1338.11
+    },
+    {
+      "date": "2025-12-18",
+      "revenue": 1798.78
+    },
+    {
+      "date": "2025-12-19",
+      "revenue": 1476.08
+    },
+    {
+      "date": "2025-12-20",
+      "revenue": 1764.47
+    },
+    {
+      "date": "2025-12-21",
+      "revenue": 2720.21
+    },
+    {
+      "date": "2025-12-22",
+      "revenue": 1692.24
+    },
+    {
+      "date": "2025-12-23",
+      "revenue": 1459.95
+    },
+    {
+      "date": "2025-12-24",
+      "revenue": 1442.82
+    },
+    {
+      "date": "2025-12-25",
+      "revenue": 2075.21
+    },
+    {
+      "date": "2025-12-26",
+      "revenue": 2222.18
+    },
+    {
+      "date": "2025-12-27",
+      "revenue": 1277.14
+    },
+    {
+      "date": "2025-12-28",
+      "revenue": 1085.63
+    },
+    {
+      "date": "2025-12-29",
+      "revenue": 1537.85
+    },
+    {
+      "date": "2025-12-30",
+      "revenue": 2289.28
+    },
+    {
+      "date": "2025-12-31",
+      "revenue": 2210.53
+    },
+    {
+      "date": "2026-01-01",
+      "revenue": 1789.09
+    },
+    {
+      "date": "2026-01-02",
+      "revenue": 1628.8
+    },
+    {
+      "date": "2026-01-03",
+      "revenue": 1210.27
+    },
+    {
+      "date": "2026-01-04",
+      "revenue": 1735.77
+    },
+    {
+      "date": "2026-01-05",
+      "revenue": 1769.8
+    },
+    {
+      "date": "2026-01-06",
+      "revenue": 2025.64
+    },
+    {
+      "date": "2026-01-07",
+      "revenue": 1650.71
+    },
+    {
+      "date": "2026-01-08",
+      "revenue": 2050.36
+    },
+    {
+      "date": "2026-01-09",
+      "revenue": 1705.51
+    },
+    {
+      "date": "2026-01-10",
+      "revenue": 1889.79
+    },
+    {
+      "date": "2026-01-11",
+      "revenue": 2053.14
+    },
+    {
+      "date": "2026-01-12",
+      "revenue": 969.22
+    },
+    {
+      "date": "2026-01-13",
+      "revenue": 1940.93
+    },
+    {
+      "date": "2026-01-14",
+      "revenue": 2417.3
+    },
+    {
+      "date": "2026-01-15",
+      "revenue": 1318.12
+    },
+    {
+      "date": "2026-01-16",
+      "revenue": 1599.46
+    },
+    {
+      "date": "2026-01-17",
+      "revenue": 2614.27
+    },
+    {
+      "date": "2026-01-18",
+      "revenue": 1847.22
+    },
+    {
+      "date": "2026-01-19",
+      "revenue": 2845.73
+    },
+    {
+      "date": "2026-01-20",
+      "revenue": 1622.7
+    },
+    {
+      "date": "2026-01-21",
+      "revenue": 1571.29
+    },
+    {
+      "date": "2026-01-22",
+      "revenue": 2639.51
+    },
+    {
+      "date": "2026-01-23",
+      "revenue": 1657.71
+    },
+    {
+      "date": "2026-01-24",
+      "revenue": 1263.98
+    },
+    {
+      "date": "2026-01-25",
+      "revenue": 1324.38
+    },
+    {
+      "date": "2026-01-26",
+      "revenue": 2320.06
+    },
+    {
+      "date": "2026-01-27",
+      "revenue": 2241.18
+    },
+    {
+      "date": "2026-01-28",
+      "revenue": 2369.68
+    },
+    {
+      "date": "2026-01-29",
+      "revenue": 1892.28
+    },
+    {
+      "date": "2026-01-30",
+      "revenue": 2336.1
+    },
+    {
+      "date": "2026-01-31",
+      "revenue": 934.42
+    },
+    {
+      "date": "2026-02-01",
+      "revenue": 1413.06
+    },
+    {
+      "date": "2026-02-02",
+      "revenue": 1176.19
+    },
+    {
+      "date": "2026-02-03",
+      "revenue": 1361.24
+    },
+    {
+      "date": "2026-02-04",
+      "revenue": 1207.12
+    },
+    {
+      "date": "2026-02-05",
+      "revenue": 1227.61
+    },
+    {
+      "date": "2026-02-06",
+      "revenue": 1136.03
+    },
+    {
+      "date": "2026-02-07",
+      "revenue": 1267.17
+    },
+    {
+      "date": "2026-02-08",
+      "revenue": 1494.93
+    },
+    {
+      "date": "2026-02-09",
+      "revenue": 2140.92
+    },
+    {
+      "date": "2026-02-10",
+      "revenue": 1357.11
+    },
+    {
+      "date": "2026-02-11",
+      "revenue": 1784.93
+    },
+    {
+      "date": "2026-02-12",
+      "revenue": 1407.74
+    },
+    {
+      "date": "2026-02-13",
+      "revenue": 1353.98
+    },
+    {
+      "date": "2026-02-14",
+      "revenue": 1126.86
+    },
+    {
+      "date": "2026-02-15",
+      "revenue": 671.43
+    },
+    {
+      "date": "2026-02-16",
+      "revenue": 1757.83
+    },
+    {
+      "date": "2026-02-17",
+      "revenue": 1787.64
+    },
+    {
+      "date": "2026-02-18",
+      "revenue": 1141.28
+    },
+    {
+      "date": "2026-02-19",
+      "revenue": 1078.18
+    },
+    {
+      "date": "2026-02-20",
+      "revenue": 1510.97
+    },
+    {
+      "date": "2026-02-21",
+      "revenue": 866.44
+    },
+    {
+      "date": "2026-02-22",
+      "revenue": 1622.26
+    },
+    {
+      "date": "2026-02-23",
+      "revenue": 1312.28
+    },
+    {
+      "date": "2026-02-24",
+      "revenue": 1114.33
+    },
+    {
+      "date": "2026-02-25",
+      "revenue": 1369.78
+    },
+    {
+      "date": "2026-02-26",
+      "revenue": 1760.21
+    },
+    {
+      "date": "2026-02-27",
+      "revenue": 1672.28
+    },
+    {
+      "date": "2026-02-28",
+      "revenue": 1531.59
+    },
+    {
+      "date": "2026-03-01",
+      "revenue": 1312.32
+    },
+    {
+      "date": "2026-03-02",
+      "revenue": 1031.74
+    },
+    {
+      "date": "2026-03-03",
+      "revenue": 700.09
+    },
+    {
+      "date": "2026-03-04",
+      "revenue": 1803.66
+    },
+    {
+      "date": "2026-03-05",
+      "revenue": 1015.49
+    },
+    {
+      "date": "2026-03-06",
+      "revenue": 1522.21
+    },
+    {
+      "date": "2026-03-07",
+      "revenue": 981.13
+    },
+    {
+      "date": "2026-03-08",
+      "revenue": 1251.57
+    },
+    {
+      "date": "2026-03-09",
+      "revenue": 702.81
+    },
+    {
+      "date": "2026-03-10",
+      "revenue": 894.0
+    },
+    {
+      "date": "2026-03-11",
+      "revenue": 978.67
+    },
+    {
+      "date": "2026-03-12",
+      "revenue": 1070.48
+    },
+    {
+      "date": "2026-03-13",
+      "revenue": 1377.24
+    },
+    {
+      "date": "2026-03-14",
+      "revenue": 1215.15
+    },
+    {
+      "date": "2026-03-15",
+      "revenue": 769.28
+    },
+    {
+      "date": "2026-03-16",
+      "revenue": 485.2
+    },
+    {
+      "date": "2026-03-17",
+      "revenue": 989.18
+    },
+    {
+      "date": "2026-03-18",
+      "revenue": 976.45
+    },
+    {
+      "date": "2026-03-19",
+      "revenue": 999.84
+    },
+    {
+      "date": "2026-03-20",
+      "revenue": 1367.4
+    },
+    {
+      "date": "2026-03-21",
+      "revenue": 549.5
+    },
+    {
+      "date": "2026-03-22",
+      "revenue": 1152.73
+    },
+    {
+      "date": "2026-03-23",
+      "revenue": 1525.38
+    },
+    {
+      "date": "2026-03-24",
+      "revenue": 456.0
+    },
+    {
+      "date": "2026-03-25",
+      "revenue": 644.03
+    },
+    {
+      "date": "2026-03-26",
+      "revenue": 990.56
+    },
+    {
+      "date": "2026-03-27",
+      "revenue": 1019.7
+    },
+    {
+      "date": "2026-03-28",
+      "revenue": 551.44
+    },
+    {
+      "date": "2026-03-29",
+      "revenue": 1120.64
+    },
+    {
+      "date": "2026-03-30",
+      "revenue": 628.65
+    },
+    {
+      "date": "2026-03-31",
+      "revenue": 392.74
+    },
+    {
+      "date": "2026-04-01",
+      "revenue": 908.76
+    },
+    {
+      "date": "2026-04-02",
+      "revenue": 677.95
+    },
+    {
+      "date": "2026-04-03",
+      "revenue": 1102.57
+    },
+    {
+      "date": "2026-04-04",
+      "revenue": 1739.52
+    },
+    {
+      "date": "2026-04-05",
+      "revenue": 1054.98
+    },
+    {
+      "date": "2026-04-06",
+      "revenue": 953.44
+    },
+    {
+      "date": "2026-04-07",
+      "revenue": 1410.59
+    },
+    {
+      "date": "2026-04-08",
+      "revenue": 952.65
+    },
+    {
+      "date": "2026-04-09",
+      "revenue": 650.42
+    },
+    {
+      "date": "2026-04-10",
+      "revenue": 632.35
+    },
+    {
+      "date": "2026-04-11",
+      "revenue": 1340.23
+    },
+    {
+      "date": "2026-04-12",
+      "revenue": 743.93
+    },
+    {
+      "date": "2026-04-13",
+      "revenue": 874.1
+    },
+    {
+      "date": "2026-04-14",
+      "revenue": 830.57
+    },
+    {
+      "date": "2026-04-15",
+      "revenue": 321.24
+    },
+    {
+      "date": "2026-04-16",
+      "revenue": 681.7
+    },
+    {
+      "date": "2026-04-17",
+      "revenue": 733.95
+    },
+    {
+      "date": "2026-04-18",
+      "revenue": 821.35
+    },
+    {
+      "date": "2026-04-19",
+      "revenue": 785.98
+    },
+    {
+      "date": "2026-04-20",
+      "revenue": 546.35
+    },
+    {
+      "date": "2026-04-21",
+      "revenue": 1082.08
+    },
+    {
+      "date": "2026-04-22",
+      "revenue": 625.6
+    },
+    {
+      "date": "2026-04-23",
+      "revenue": 598.69
+    },
+    {
+      "date": "2026-04-24",
+      "revenue": 429.8
+    },
+    {
+      "date": "2026-04-25",
+      "revenue": 789.63
+    },
+    {
+      "date": "2026-04-26",
+      "revenue": 1207.2
+    },
+    {
+      "date": "2026-04-27",
+      "revenue": 337.99
+    },
+    {
+      "date": "2026-04-28",
+      "revenue": 498.59
+    },
+    {
+      "date": "2026-04-29",
+      "revenue": 778.63
+    },
+    {
+      "date": "2026-04-30",
+      "revenue": 474.25
+    },
+    {
+      "date": "2026-05-01",
+      "revenue": 770.92
+    },
+    {
+      "date": "2026-05-02",
+      "revenue": 304.5
+    },
+    {
+      "date": "2026-05-03",
+      "revenue": 811.49
+    },
+    {
+      "date": "2026-05-04",
+      "revenue": 743.95
+    },
+    {
+      "date": "2026-05-05",
+      "revenue": 270.0
+    },
+    {
+      "date": "2026-05-06",
+      "revenue": 684.89
+    },
+    {
+      "date": "2026-05-07",
+      "revenue": 474.01
+    },
+    {
+      "date": "2026-05-08",
+      "revenue": 1301.97
+    },
+    {
+      "date": "2026-05-09",
+      "revenue": 1511.5
+    },
+    {
+      "date": "2026-05-10",
+      "revenue": 640.44
+    },
+    {
+      "date": "2026-05-11",
+      "revenue": 824.26
+    },
+    {
+      "date": "2026-05-12",
+      "revenue": 728.4
+    },
+    {
+      "date": "2026-05-13",
+      "revenue": 750.43
+    },
+    {
+      "date": "2026-05-14",
+      "revenue": 120.5
+    },
+    {
+      "date": "2026-05-15",
+      "revenue": 1109.43
+    },
+    {
+      "date": "2026-05-16",
+      "revenue": 621.0
+    },
+    {
+      "date": "2026-05-17",
+      "revenue": 342.5
+    },
+    {
+      "date": "2026-05-18",
+      "revenue": 409.22
+    },
+    {
+      "date": "2026-05-19",
+      "revenue": 465.0
+    },
+    {
+      "date": "2026-05-20",
+      "revenue": 850.42
+    },
+    {
+      "date": "2026-05-21",
+      "revenue": 84.5
+    },
+    {
+      "date": "2026-05-22",
+      "revenue": 943.05
+    },
+    {
+      "date": "2026-05-23",
+      "revenue": 375.45
+    },
+    {
+      "date": "2026-05-24",
+      "revenue": 237.48
+    },
+    {
+      "date": "2026-05-25",
+      "revenue": 150.0
+    },
+    {
+      "date": "2026-05-26",
+      "revenue": 254.69
+    },
+    {
+      "date": "2026-05-27",
+      "revenue": 565.14
+    },
+    {
+      "date": "2026-05-28",
+      "revenue": 760.59
+    },
+    {
+      "date": "2026-05-29",
+      "revenue": 314.8
+    },
+    {
+      "date": "2026-05-30",
+      "revenue": 321.23
+    },
+    {
+      "date": "2026-05-31",
+      "revenue": 381.64
+    },
+    {
+      "date": "2026-06-01",
+      "revenue": 499.0
+    },
+    {
+      "date": "2026-06-02",
+      "revenue": 413.54
+    },
+    {
+      "date": "2026-06-03",
+      "revenue": 464.4
+    },
+    {
+      "date": "2026-06-04",
+      "revenue": 254.65
+    },
+    {
+      "date": "2026-06-05",
+      "revenue": 262.09
+    },
+    {
+      "date": "2026-06-06",
+      "revenue": 449.4
+    },
+    {
+      "date": "2026-06-07",
+      "revenue": 471.25
+    },
+    {
+      "date": "2026-06-08",
+      "revenue": 237.19
+    },
+    {
+      "date": "2026-06-09",
+      "revenue": 380.28
+    },
+    {
+      "date": "2026-06-10",
+      "revenue": 278.8
+    },
+    {
+      "date": "2026-06-11",
+      "revenue": 250.74
+    },
+    {
+      "date": "2026-06-12",
+      "revenue": 439.58
+    },
+    {
+      "date": "2026-06-13",
+      "revenue": 421.29
+    },
+    {
+      "date": "2026-06-14",
+      "revenue": 181.74
+    },
+    {
+      "date": "2026-06-15",
+      "revenue": 675.15
+    },
+    {
+      "date": "2026-06-16",
+      "revenue": 989.7
+    },
+    {
+      "date": "2026-06-17",
+      "revenue": 400.25
+    },
+    {
+      "date": "2026-06-18",
+      "revenue": 383.25
+    },
+    {
+      "date": "2026-06-19",
+      "revenue": 349.4
+    },
+    {
+      "date": "2026-06-20",
+      "revenue": 115.35
+    },
+    {
+      "date": "2026-06-21",
+      "revenue": 426.49
+    },
+    {
+      "date": "2026-06-22",
+      "revenue": 647.39
+    },
+    {
+      "date": "2026-06-23",
+      "revenue": 341.5
+    },
+    {
+      "date": "2026-06-24",
+      "revenue": 339.95
+    },
+    {
+      "date": "2026-06-25",
+      "revenue": 473.39
+    },
+    {
+      "date": "2026-06-26",
+      "revenue": 314.61
+    },
+    {
+      "date": "2026-06-27",
+      "revenue": 106.0
+    },
+    {
+      "date": "2026-06-28",
+      "revenue": 482.22
+    },
+    {
+      "date": "2026-06-29",
+      "revenue": 671.75
+    },
+    {
+      "date": "2026-06-30",
+      "revenue": 35.75
+    },
+    {
+      "date": "2026-07-01",
+      "revenue": 175.9
+    },
+    {
+      "date": "2026-07-02",
+      "revenue": 352.89
+    },
+    {
+      "date": "2026-07-03",
+      "revenue": 276.3
+    },
+    {
+      "date": "2026-07-05",
+      "revenue": 335.25
+    },
+    {
+      "date": "2026-07-06",
+      "revenue": 213.5
+    },
+    {
+      "date": "2026-07-07",
+      "revenue": 64.79
+    },
+    {
+      "date": "2026-07-08",
+      "revenue": 139.75
+    },
+    {
+      "date": "2026-07-09",
+      "revenue": 55.75
+    },
+    {
+      "date": "2026-07-10",
+      "revenue": 552.55
+    },
+    {
+      "date": "2026-07-11",
+      "revenue": 34.75
+    },
+    {
+      "date": "2026-07-12",
+      "revenue": 133.3
+    },
+    {
+      "date": "2026-07-13",
+      "revenue": 60.99
+    },
+    {
+      "date": "2026-07-14",
+      "revenue": 277.6
+    },
+    {
+      "date": "2026-07-16",
+      "revenue": 216.95
+    },
+    {
+      "date": "2026-07-17",
+      "revenue": 87.0
+    },
+    {
+      "date": "2026-07-18",
+      "revenue": 137.8
+    },
+    {
+      "date": "2026-07-19",
+      "revenue": 242.75
+    },
+    {
+      "date": "2026-07-20",
+      "revenue": 143.5
+    },
+    {
+      "date": "2026-07-21",
+      "revenue": 269.25
+    },
+    {
+      "date": "2026-07-22",
+      "revenue": 190.49
+    },
+    {
+      "date": "2026-07-24",
+      "revenue": 121.5
+    },
+    {
+      "date": "2026-07-25",
+      "revenue": 422.95
+    },
+    {
+      "date": "2026-07-26",
+      "revenue": 118.0
+    },
+    {
+      "date": "2026-07-28",
+      "revenue": 160.2
+    },
+    {
+      "date": "2026-07-30",
+      "revenue": 369.53
+    },
+    {
+      "date": "2026-07-31",
+      "revenue": 59.25
+    },
+    {
+      "date": "2026-08-02",
+      "revenue": 161.5
+    },
+    {
+      "date": "2026-08-03",
+      "revenue": 200.6
+    },
+    {
+      "date": "2026-08-04",
+      "revenue": 77.1
+    },
+    {
+      "date": "2026-08-05",
+      "revenue": 255.24
+    },
+    {
+      "date": "2026-08-06",
+      "revenue": 22.5
+    },
+    {
+      "date": "2026-08-07",
+      "revenue": 300.69
+    },
+    {
+      "date": "2026-08-08",
+      "revenue": 82.8
+    },
+    {
+      "date": "2026-08-09",
+      "revenue": 78.0
+    },
+    {
+      "date": "2026-08-10",
+      "revenue": 90.25
+    },
+    {
+      "date": "2026-08-11",
+      "revenue": 64.5
+    },
+    {
+      "date": "2026-08-12",
+      "revenue": 36.0
+    },
+    {
+      "date": "2026-08-14",
+      "revenue": 69.0
+    },
+    {
+      "date": "2026-08-15",
+      "revenue": 331.15
+    },
+    {
+      "date": "2026-08-16",
+      "revenue": 45.0
+    },
+    {
+      "date": "2026-08-17",
+      "revenue": 85.5
+    },
+    {
+      "date": "2026-08-19",
+      "revenue": 79.98
+    },
+    {
+      "date": "2026-08-20",
+      "revenue": 318.7
+    },
+    {
+      "date": "2026-08-23",
+      "revenue": 127.24
+    },
+    {
+      "date": "2026-08-25",
+      "revenue": 221.25
+    },
+    {
+      "date": "2026-08-27",
+      "revenue": 31.8
+    },
+    {
+      "date": "2026-08-29",
+      "revenue": 21.0
+    },
+    {
+      "date": "2026-09-01",
+      "revenue": 154.0
+    },
+    {
+      "date": "2026-09-02",
+      "revenue": 115.98
+    },
+    {
+      "date": "2026-09-14",
+      "revenue": 81.6
+    },
+    {
+      "date": "2026-09-15",
+      "revenue": 14.25
+    },
+    {
+      "date": "2026-09-18",
+      "revenue": 29.99
+    },
+    {
+      "date": "2026-09-25",
+      "revenue": 38.5
+    }
+  ],
+  "cleaning": {
+    "orders_raw": 9280,
+    "orders_clean": 9280,
+    "users_raw": 3107,
+    "users_clean": 3107,
+    "books_raw": 742,
+    "books_clean": 742
+  }
+}
